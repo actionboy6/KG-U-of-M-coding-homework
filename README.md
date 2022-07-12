@@ -1,0 +1,3 @@
+# Code Refactor Starter Code
+I have added 6 total alt attributes for 6 different images. 
+After attempting to restructure CSS code by putting benefits h3 under img's, it appears that online reputation management has completely disappeared. Upon further investigation, it appears that it has something to do with the HTML, not CSS. Upon even further investigation, it appears that I forgot to include closing quotes. Online Reputation Management is back up.
